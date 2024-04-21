@@ -8,7 +8,7 @@ This repo is builded like this:
 
 ![Repo build](https://cdn.douxx.xyz/files/repo_build.png)
   
-(Branch is the [SubDirectory](https://blog.hubspot.com/marketing/subdomain-vs-subdirectory#:~:text=In%20a%20URL%2C%20the%20subdirectory,of%20one%20possible%20subdirectory%20structure.) after `api.douxx.xyz`.)
+(Branch is the [SubDirectory](https://blog.hubspot.com/marketing/subdomain-vs-subdirectory#:~:text=In%20a%20URL%2C%20the%20subdirectory,of%20one%20possible%20subdirectory%20structure.) after `api.douxx.xyz`.)  
 *Sorry, there arn't branchs, but directorys 😔
 
 
