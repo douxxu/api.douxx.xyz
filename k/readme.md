@@ -73,7 +73,7 @@ while True: #contiune checking again and again
         print(f"{key} isn't verified") #false = unverified
 ```
 
-### questions / issues
+### questions / issues
 
 If you have a question / issue, please make an issue
 
